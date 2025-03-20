@@ -39,10 +39,15 @@
 ## 📌 Projetos em Destaque
 
 🔹 **[USBY - Bot para WhatsApp](https://github.com/YANLUCCA0205/USBY)**  
-Bot gratuito e ilimitado que encaminha mensagens para o Google Sheets.
+Bot gratuito e ilimitado que encaminha mensagens para o Google Sheets.  
 
-🔹 **[SEND-TO-WHATS](https://github.com/YANLUCCA0205/SEND-TO-WHATS)**  
-Ferramenta de automação para envio de mensagens para o WhatsApp.
+🔹 **[Send to WhatsApp](https://github.com/YANLUCCA0205/SEND-TO-WHATS)**  
+Ferramenta de automação para envio de mensagens para o WhatsApp.  
+
+💡 **Integração Inteligente:**  
+O **USBY** e o **Send to WhatsApp** trabalham em conjunto para oferecer uma automação completa no WhatsApp. Enquanto o **USBY** recebe, processa e encaminha mensagens para o Google Sheets, o **Send to WhatsApp** permite o envio automatizado de respostas ou mensagens personalizadas. Juntos, eles formam uma solução eficiente para otimizar a comunicação e gestão de mensagens no WhatsApp.
+
+
 ---
 
 ## 📊 Estatísticas do GitHub
