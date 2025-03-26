@@ -38,7 +38,7 @@
 
 ## 📌 Projetos em Destaque
 
-🔹 **[USBY - Bot para WhatsApp](https://github.com/YANLUCCA0205/USBY)**  
+🔹 **[USBY - Bot para WhatsApp](https://github.com/YANLUCCA0205/usb-bot)**  
 Bot gratuito e ilimitado que encaminha mensagens para o Google Sheets.  
 
 🔹 **[Send to WhatsApp](https://github.com/YANLUCCA0205/SEND-TO-WHATS)**  
